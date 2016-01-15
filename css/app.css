@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Helvetiva', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  color: #333;
+}
+#wrapper {
+  margin: 0;
+  padding: 0;
+}
+.navbar-default {
+  margin: 0;
+  background: #480000 ;
+  border: none;
+  border-radius: 0;
+}
+.navbar-default .navbar-brand {
+  text-transform: uppercase;
+  color: #fff;
+}
+.navbar-default .navbar-nav > li {
+  margin: 10px;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #fff;
+}
+.navbar-default .navbar-nav > li > a:hover {
+  background-color: green;
+}
+.jumbotron {
+  text-align: center;
+  margin-bottom: 0;
+  padding-bottom: 0;
+
+}
+.jumbotron > h3,
+.jumbotron > p {
+  margin-bottom: 0;
+}
+.jumbotron > h3
+{
+  color: #480000;
+}
+.jumbotron a {
+  padding: 12px 24px;
+  border-radius: 0;
+}
+.jumbotron a.btn-primary {
+  background-color: #480000 ;
+}
+
+#sec2{
+  margin top: 0;
+  border-radius:0;
+  padding:100px;
+  text-align: center;
+  background-color: #fff;
+}
+h3
+{
+  margin: 0;
+  padding: 0;
+  color: #480000;
+}
+.foot
+{
+  margin: 0;
+  border: 0;
+  background-color:#480000 ;
+  text-align: center;
+  color: #FFFFFF;
+}
+#sec2.project
+{
+margin-bottom: 10px;
+}
