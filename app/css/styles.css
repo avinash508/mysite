@@ -1,0 +1,13 @@
+.jumbotron a.btn-primary {
+  background-color: tomato;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+p > a:hover {
+  text-decoration: underline;
+}
