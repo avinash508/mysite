@@ -64,6 +64,21 @@ h3
   padding: 0;
   color: #480000;
 }
+#social.icon {
+  padding: 30px;
+  text-align: center;
+  background-color: #ffffff;
+  width: 30%;
+  height: 30%;
+}
+#social.icon > a {
+  display: block;
+  font-size: 32px;
+  color: #333333;
+}
+ #social.icon > a:hover {
+  color: seagreen;
+}
 .foot
 {
   margin: 0;
