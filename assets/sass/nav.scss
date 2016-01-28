@@ -4,26 +4,26 @@
   background: #480000 ;
   border: none;
   border-radius: 0;
-       .navbar-brand
-                   {
-                  text-transform: uppercase;
-                   color: #fff;
-                    }
+  .navbar-brand
+  {
+    text-transform: uppercase;
+    color: #fff;
+  }
 
-          .navbar-nav
-          {
-            li {
-               margin: 10px;
-               a
-               {
-                  color: #fff;
-                  font-weight: bold;
-                  text-decoration: none;
-                     &:hover
-                      {
-                        background-color: seagreen;
-                      }
-                 }
-             }
+  .navbar-nav
+  {
+    li {
+      margin: 10px;
+      a
+      {
+        color: #fff;
+        font-weight: bold;
+        text-decoration: none;
+        &:hover
+        {
+          background-color: seagreen;
         }
-   }
+      }
+    }
+  }
+}*9+
